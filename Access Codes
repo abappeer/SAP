@@ -1,0 +1,21 @@
+#Transactions
+Knowing the BADI
+- Class: Table SXC_CLASS
+- Interface: Table SXS_INTER
+
+
+
+
+
+
+
+
+
+
+
+#Function Modules
+- RS_HDSYS_CALL_TC_VARIANT (Bypass Tcode Auth Access)
+
+
+
+
